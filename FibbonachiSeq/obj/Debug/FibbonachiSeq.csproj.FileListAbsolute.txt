@@ -1,0 +1,5 @@
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\FibbonachiSeq\bin\Debug\FibbonachiSeq.exe.config
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\FibbonachiSeq\bin\Debug\FibbonachiSeq.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\FibbonachiSeq\bin\Debug\FibbonachiSeq.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\FibbonachiSeq\obj\Debug\FibbonachiSeq.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\FibbonachiSeq\obj\Debug\FibbonachiSeq.pdb

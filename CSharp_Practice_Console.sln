@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Practice_Console", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_Pi_To_The_Power_Of_N", "Find_Pi_To_The_Power_Of_N\Find_Pi_To_The_Power_Of_N.csproj", "{53ACE847-DE31-4F44-9BCC-C4E4CDCB8663}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibbonachiSeq", "FibbonachiSeq\FibbonachiSeq.csproj", "{E0030BA7-EDA7-48D6-B51F-D26A75F77AE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{53ACE847-DE31-4F44-9BCC-C4E4CDCB8663}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53ACE847-DE31-4F44-9BCC-C4E4CDCB8663}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53ACE847-DE31-4F44-9BCC-C4E4CDCB8663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0030BA7-EDA7-48D6-B51F-D26A75F77AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0030BA7-EDA7-48D6-B51F-D26A75F77AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0030BA7-EDA7-48D6-B51F-D26A75F77AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0030BA7-EDA7-48D6-B51F-D26A75F77AE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
