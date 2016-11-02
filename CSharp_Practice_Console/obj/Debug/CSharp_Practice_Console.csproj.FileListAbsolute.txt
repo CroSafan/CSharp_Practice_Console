@@ -1,0 +1,1 @@
+c:\users\antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\CSharp_Practice_Console\bin\Debug\CSharp_Practice_Console.exe.config
