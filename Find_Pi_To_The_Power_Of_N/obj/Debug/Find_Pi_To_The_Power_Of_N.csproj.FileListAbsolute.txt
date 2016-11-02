@@ -1,0 +1,6 @@
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Find_Pi_To_The_Power_Of_N\bin\Debug\Find_Pi_To_The_Power_Of_N.exe.config
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Find_Pi_To_The_Power_Of_N\bin\Debug\Find_Pi_To_The_Power_Of_N.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Find_Pi_To_The_Power_Of_N\bin\Debug\Find_Pi_To_The_Power_Of_N.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Find_Pi_To_The_Power_Of_N\obj\Debug\Find_Pi_To_The_Power_Of_N.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Find_Pi_To_The_Power_Of_N\obj\Debug\Find_Pi_To_The_Power_Of_N.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Find_Pi_To_The_Power_Of_N\obj\Debug\Find_Pi_To_The_Power_Of_N.csprojResolveAssemblyReference.cache

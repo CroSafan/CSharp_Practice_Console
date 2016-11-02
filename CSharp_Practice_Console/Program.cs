@@ -10,6 +10,11 @@ namespace CSharp_Practice_Console
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("asdas");
+             int a = 2;
+            int b = 2;
+            Console.WriteLine("Zbroj je{0}", a + b);
+
         }
     }
 }
