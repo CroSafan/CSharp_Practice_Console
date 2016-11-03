@@ -1,0 +1,6 @@
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Prime_Factorization\bin\Debug\Prime_Factorization.exe.config
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Prime_Factorization\bin\Debug\Prime_Factorization.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Prime_Factorization\bin\Debug\Prime_Factorization.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Prime_Factorization\obj\Debug\Prime_Factorization.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Prime_Factorization\obj\Debug\Prime_Factorization.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Prime_Factorization\obj\Debug\Prime_Factorization.csprojResolveAssemblyReference.cache
