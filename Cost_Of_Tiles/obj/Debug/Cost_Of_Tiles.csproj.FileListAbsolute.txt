@@ -1,0 +1,6 @@
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Cost_Of_Tiles\bin\Debug\Cost_Of_Tiles.exe.config
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Cost_Of_Tiles\bin\Debug\Cost_Of_Tiles.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Cost_Of_Tiles\bin\Debug\Cost_Of_Tiles.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Cost_Of_Tiles\obj\Debug\Cost_Of_Tiles.csprojResolveAssemblyReference.cache
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Cost_Of_Tiles\obj\Debug\Cost_Of_Tiles.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Cost_Of_Tiles\obj\Debug\Cost_Of_Tiles.pdb

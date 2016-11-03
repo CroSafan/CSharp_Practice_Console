@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibbonachiSeq", "Fibbonachi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime_Factorization", "Prime_Factorization\Prime_Factorization.csproj", "{C5BBAD9D-B888-48FE-ABBE-0C99950205A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cost_Of_Tiles", "Cost_Of_Tiles\Cost_Of_Tiles.csproj", "{ECE3AA1B-C59C-4993-B365-78088A8B93A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C5BBAD9D-B888-48FE-ABBE-0C99950205A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5BBAD9D-B888-48FE-ABBE-0C99950205A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5BBAD9D-B888-48FE-ABBE-0C99950205A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE3AA1B-C59C-4993-B365-78088A8B93A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE3AA1B-C59C-4993-B365-78088A8B93A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE3AA1B-C59C-4993-B365-78088A8B93A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE3AA1B-C59C-4993-B365-78088A8B93A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
