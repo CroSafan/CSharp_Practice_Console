@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cost_Of_Tiles", "Cost_Of_Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mortage_Calculator", "Mortage_Calculator\Mortage_Calculator.csproj", "{6881B0FD-7469-4414-BDBB-D2F2266B5C6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change_Return_Program", "Change_Return_Program\Change_Return_Program.csproj", "{241F8CBF-0A7E-45E9-81BB-2735DFBC4570}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6881B0FD-7469-4414-BDBB-D2F2266B5C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6881B0FD-7469-4414-BDBB-D2F2266B5C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6881B0FD-7469-4414-BDBB-D2F2266B5C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241F8CBF-0A7E-45E9-81BB-2735DFBC4570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241F8CBF-0A7E-45E9-81BB-2735DFBC4570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241F8CBF-0A7E-45E9-81BB-2735DFBC4570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241F8CBF-0A7E-45E9-81BB-2735DFBC4570}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

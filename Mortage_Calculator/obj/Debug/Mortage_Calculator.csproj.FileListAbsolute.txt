@@ -3,3 +3,4 @@ C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Mor
 C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Mortage_Calculator\bin\Debug\Mortage_Calculator.pdb
 C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Mortage_Calculator\obj\Debug\Mortage_Calculator.exe
 C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Mortage_Calculator\obj\Debug\Mortage_Calculator.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Mortage_Calculator\obj\Debug\Mortage_Calculator.csprojResolveAssemblyReference.cache
