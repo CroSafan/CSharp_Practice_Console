@@ -15,11 +15,14 @@ namespace Binary_to_Decimal_Converter
     {
         static void Main(string[] args)
         {
+            //for testing purpouses
+            /*  for (int i = 0; i < 100; i++)
+              {
+              Console.WriteLine(DecimalToBinary(i));
+              }*/
             Console.WriteLine("Enter a number: ");
             int number = Convert.ToInt16(Console.ReadLine());
-
-            Console.WriteLine(DecimalToBinary(number));
-
+            Console.WriteLine(DecimalToBinary(number));         
             Console.Read();
         }
 
@@ -27,15 +30,31 @@ namespace Binary_to_Decimal_Converter
 
         public static string DecimalToBinary(int number)
         {
-            string binary="";
+            string binary=String.Empty;
+           
             while (number != 0)
             {
+                
                 binary += (number % 2).ToString();
                 number = number / 2;
             }
+            //reversing the result
+            binary = Reverse(binary);
+            return  binary;
+        }
+        public static string BinaryToDecimal(int number)
+        {
+            string result = "";
+            return result;
+          
+        }
 
-            binary.Reverse();
-            return binary;
+        //method copied from SO
+        public static string Reverse(string input)
+        {
+            char[] chars = input.ToCharArray();
+            Array.Reverse(chars);
+            return new String(chars);
         }
     }
 }
