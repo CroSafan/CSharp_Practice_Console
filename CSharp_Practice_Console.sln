@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change_Return_Program", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_to_Decimal_Converter", "Binary_to_Decimal_Converter\Binary_to_Decimal_Converter.csproj", "{B5372DE5-38A0-4A3B-82C0-1EFD1D144DE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit_Converter", "Unit_Converter\Unit_Converter.csproj", "{0CE08478-E795-49E5-BAFC-71B6373124B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{B5372DE5-38A0-4A3B-82C0-1EFD1D144DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5372DE5-38A0-4A3B-82C0-1EFD1D144DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5372DE5-38A0-4A3B-82C0-1EFD1D144DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE08478-E795-49E5-BAFC-71B6373124B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE08478-E795-49E5-BAFC-71B6373124B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE08478-E795-49E5-BAFC-71B6373124B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE08478-E795-49E5-BAFC-71B6373124B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
