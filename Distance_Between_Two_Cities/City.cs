@@ -8,8 +8,8 @@ namespace Distance_Between_Two_Cities
 {
     class City
     {
-       
-        public Location locationOfCity { get; set; }
+
+        public Location locationOfCity=new Location();
 
         public float DistanceBetweenCity(City city)
         {

@@ -16,6 +16,8 @@ namespace Distance_Between_Two_Cities
             city1.locationOfCity.yCord= 005.4253f;
             city2.locationOfCity.xCord = 58.3838f;
             city2.locationOfCity.yCord = 003.0412f;
+            // it works
+            //TODO fix the rounding up, a little bit of on the exact distance;
             Console.WriteLine(city1.DistanceBetweenCity(city2));
             Console.Read();
         }
