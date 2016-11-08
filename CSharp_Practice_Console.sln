@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_to_Decimal_Converter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit_Converter", "Unit_Converter\Unit_Converter.csproj", "{0CE08478-E795-49E5-BAFC-71B6373124B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance_Between_Two_Cities", "Distance_Between_Two_Cities\Distance_Between_Two_Cities.csproj", "{97E75E7B-3806-4BC6-A79D-DC94F478A35C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{0CE08478-E795-49E5-BAFC-71B6373124B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CE08478-E795-49E5-BAFC-71B6373124B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CE08478-E795-49E5-BAFC-71B6373124B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E75E7B-3806-4BC6-A79D-DC94F478A35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E75E7B-3806-4BC6-A79D-DC94F478A35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E75E7B-3806-4BC6-A79D-DC94F478A35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E75E7B-3806-4BC6-A79D-DC94F478A35C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
