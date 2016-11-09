@@ -1,0 +1,5 @@
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Reverse a string\bin\Debug\Reverse a string.exe.config
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Reverse a string\bin\Debug\Reverse a string.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Reverse a string\bin\Debug\Reverse a string.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Reverse a string\obj\Debug\Reverse a string.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Reverse a string\obj\Debug\Reverse a string.pdb

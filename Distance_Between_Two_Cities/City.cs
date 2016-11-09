@@ -17,7 +17,9 @@ namespace Distance_Between_Two_Cities
             //https://en.wikipedia.org/wiki/Haversine_formula
             //http://www.movable-type.co.uk/scripts/latlong.html
             double radiusOfEarth = 6372.8; //in km 
+            //lat = x coord
             double dLat = degToRadians(city.locationOfCity.xCord - this.locationOfCity.xCord);
+            //lon = y coord
             double dLon = degToRadians(city.locationOfCity.yCord - this.locationOfCity.yCord);
 
             this.locationOfCity.xCord = degToRadians(this.locationOfCity.xCord);
