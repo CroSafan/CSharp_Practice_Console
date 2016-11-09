@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance_Between_Two_Cities
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse a string", "Reverse a string\Reverse a string.csproj", "{0147FA4C-2066-44DD-B08C-E3B5A28F36CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fizz_Buzz", "Fizz_Buzz\Fizz_Buzz.csproj", "{7A1CBE2D-442A-4359-9DB2-4C0835B231B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{0147FA4C-2066-44DD-B08C-E3B5A28F36CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0147FA4C-2066-44DD-B08C-E3B5A28F36CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0147FA4C-2066-44DD-B08C-E3B5A28F36CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1CBE2D-442A-4359-9DB2-4C0835B231B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1CBE2D-442A-4359-9DB2-4C0835B231B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1CBE2D-442A-4359-9DB2-4C0835B231B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1CBE2D-442A-4359-9DB2-4C0835B231B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

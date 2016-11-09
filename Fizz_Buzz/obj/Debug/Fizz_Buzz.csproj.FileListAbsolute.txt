@@ -1,0 +1,5 @@
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Fizz_Buzz\bin\Debug\Fizz_Buzz.exe.config
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Fizz_Buzz\bin\Debug\Fizz_Buzz.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Fizz_Buzz\bin\Debug\Fizz_Buzz.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Fizz_Buzz\obj\Debug\Fizz_Buzz.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Fizz_Buzz\obj\Debug\Fizz_Buzz.pdb
