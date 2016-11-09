@@ -1,0 +1,5 @@
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Coin_Flip_Simulation\bin\Debug\Coin_Flip_Simulation.exe.config
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Coin_Flip_Simulation\bin\Debug\Coin_Flip_Simulation.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Coin_Flip_Simulation\bin\Debug\Coin_Flip_Simulation.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Coin_Flip_Simulation\obj\Debug\Coin_Flip_Simulation.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Coin_Flip_Simulation\obj\Debug\Coin_Flip_Simulation.pdb
