@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fizz_Buzz", "Fizz_Buzz\Fizz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coin_Flip_Simulation", "Coin_Flip_Simulation\Coin_Flip_Simulation.csproj", "{98C9115B-1655-43DE-BF6E-7CFC52774DEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{D0CE8B83-1A32-4577-9D71-14DBCAB30980}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{98C9115B-1655-43DE-BF6E-7CFC52774DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98C9115B-1655-43DE-BF6E-7CFC52774DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98C9115B-1655-43DE-BF6E-7CFC52774DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CE8B83-1A32-4577-9D71-14DBCAB30980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CE8B83-1A32-4577-9D71-14DBCAB30980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CE8B83-1A32-4577-9D71-14DBCAB30980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CE8B83-1A32-4577-9D71-14DBCAB30980}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

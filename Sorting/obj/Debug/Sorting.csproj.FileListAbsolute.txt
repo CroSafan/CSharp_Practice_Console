@@ -1,0 +1,6 @@
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Sorting\bin\Debug\Sorting.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Sorting\obj\Debug\Sorting.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Sorting\obj\Debug\Sorting.pdb
