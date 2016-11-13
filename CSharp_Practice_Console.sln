@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coin_Flip_Simulation", "Coi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{D0CE8B83-1A32-4577-9D71-14DBCAB30980}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_Vowels", "Count_Vowels\Count_Vowels.csproj", "{F801E56D-72C9-4277-8F84-23AFA32549F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{D0CE8B83-1A32-4577-9D71-14DBCAB30980}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0CE8B83-1A32-4577-9D71-14DBCAB30980}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0CE8B83-1A32-4577-9D71-14DBCAB30980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F801E56D-72C9-4277-8F84-23AFA32549F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F801E56D-72C9-4277-8F84-23AFA32549F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F801E56D-72C9-4277-8F84-23AFA32549F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F801E56D-72C9-4277-8F84-23AFA32549F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
