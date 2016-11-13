@@ -15,18 +15,25 @@ namespace Count_Vowels
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            int vowelCount = 0;
+            char[] vowels = { 'a', 'e', 'i', 'o', 'u' };
+            int[] vowelCount= new int[5];
+
             string senternce = Console.ReadLine();
             for (int i = 0; i < senternce.Length; i++)
             {
-                if(senternce[i]=='A' || senternce[i] == 'E' || senternce[i] == 'I' || senternce[i] == 'O' ||senternce[i] == 'U')
+                for(int j=0;j<vowelCount.Length;j++)
+                if(senternce.ToLower()[i]==vowels[j])
                 {
-                    vowelCount++;
+                        vowelCount[j]++;
                 }
             }
 
-            Console.WriteLine(vowelCount);
-
+            Console.WriteLine("Number of the letter A:{0}",vowelCount[0]);
+            Console.WriteLine("Number of the letter E:{0}", vowelCount[1]);
+            Console.WriteLine("Number of the letter I:{0}", vowelCount[2]);
+            Console.WriteLine("Number of the letter O:{0}", vowelCount[3]);
+            Console.WriteLine("Number of the letter U:{0}", vowelCount[4]);
+            Console.Read();
         }
     }
 }
