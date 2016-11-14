@@ -1,0 +1,6 @@
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\PalindromeChecker\bin\Debug\PalindromeChecker.exe.config
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\PalindromeChecker\bin\Debug\PalindromeChecker.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\PalindromeChecker\bin\Debug\PalindromeChecker.pdb
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\PalindromeChecker\obj\Debug\PalindromeChecker.csprojResolveAssemblyReference.cache
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\PalindromeChecker\obj\Debug\PalindromeChecker.exe
+C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\PalindromeChecker\obj\Debug\PalindromeChecker.pdb

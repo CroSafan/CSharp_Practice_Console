@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_Vowels", "Count_Vowels\Count_Vowels.csproj", "{F801E56D-72C9-4277-8F84-23AFA32549F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker", "PalindromeChecker\PalindromeChecker.csproj", "{08B530F3-B6B9-41FE-A55C-8D4D469BC3A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{F801E56D-72C9-4277-8F84-23AFA32549F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F801E56D-72C9-4277-8F84-23AFA32549F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F801E56D-72C9-4277-8F84-23AFA32549F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B530F3-B6B9-41FE-A55C-8D4D469BC3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B530F3-B6B9-41FE-A55C-8D4D469BC3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B530F3-B6B9-41FE-A55C-8D4D469BC3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B530F3-B6B9-41FE-A55C-8D4D469BC3A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
