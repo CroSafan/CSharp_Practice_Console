@@ -20,6 +20,7 @@ namespace PalindromeChecker
 
         public static bool IsPalindrome(string toCheck)
         {
+            //it is important to have the new string part, otherwise it is a Char array 
             string reverse = new string(toCheck.Reverse().ToArray());
             if (toCheck == reverse) return true;
             else return false;

@@ -26,8 +26,8 @@ namespace Prime_Factorization
         //and find all Prime Factors (if there are any) and display them.
         static void Main(string[] args)
         {
-
-            Console.WriteLine("Eneter a nubmer!");
+          
+            Console.WriteLine("Eneter a number!");
             int number = Convert.ToInt16(Console.ReadLine());
             //if (isPrime(number)) Console.WriteLine("Its a prime"); else Console.WriteLine("its not a prime");
             //works, but it is a incomplete solution, does not work on very large numbers

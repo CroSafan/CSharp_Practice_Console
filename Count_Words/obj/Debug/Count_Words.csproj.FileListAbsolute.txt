@@ -1,0 +1,5 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Count_Words\bin\Debug\Count_Words.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Count_Words\bin\Debug\Count_Words.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Count_Words\bin\Debug\Count_Words.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Count_Words\obj\Debug\Count_Words.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Count_Words\obj\Debug\Count_Words.pdb
