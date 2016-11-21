@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Mortage_Calculator
 {
-    class Program
+    internal class Program
     {
-        public static double MjesecnaUplata(double zajam,double kamata,int godina)
+        public static double MjesecnaUplata(double zajam, double kamata, int godina)
         {
             double rata = (kamata / 100) / 12;
             double baza = (rata + 1);
@@ -19,14 +15,13 @@ namespace Mortage_Calculator
             return rez;
         }
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             double zajam = 0;
             double kamata = 0;
             double mjesecnaUplata = 0;
-            double stanjeNaRacunu=0;
-            int godina=0;
-           
+            double stanjeNaRacunu = 0;
+            int godina = 0;
 
             Console.WriteLine("Upiši iznos zajma: ");
             zajam = Convert.ToDouble(Console.ReadLine());

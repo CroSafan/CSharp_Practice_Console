@@ -1,17 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PalindromeChecker
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Enter a string");
-           string stringToCheck = Console.ReadLine();
+            string stringToCheck = Console.ReadLine();
             if (IsPalindrome(stringToCheck)) Console.WriteLine("It is a palindrome");
             else Console.WriteLine("Is not a palindrome");
 
@@ -20,7 +17,7 @@ namespace PalindromeChecker
 
         public static bool IsPalindrome(string toCheck)
         {
-            //it is important to have the new string part, otherwise it is a Char array 
+            //it is important to have the new string part, otherwise it is a Char array
             string reverse = new string(toCheck.Reverse().ToArray());
             if (toCheck == reverse) return true;
             else return false;

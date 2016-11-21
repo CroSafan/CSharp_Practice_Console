@@ -1,39 +1,32 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Prime_Factorization
 {
-    class Program
+    internal class Program
     {
         public static bool isPrime(int x)
         {
-            
-            for(int i = 2; i < x; i++)
+            for (int i = 2; i < x; i++)
             {
                 if (x % i == 0)
                 {
                     return false;
                 }
-                
-                    
             }
             return true;
         }
-        //Prime Factorization - Have the user enter a number 
+
+        //Prime Factorization - Have the user enter a number
         //and find all Prime Factors (if there are any) and display them.
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-          
             Console.WriteLine("Eneter a number!");
             int number = Convert.ToInt16(Console.ReadLine());
             //if (isPrime(number)) Console.WriteLine("Its a prime"); else Console.WriteLine("its not a prime");
             //works, but it is a incomplete solution, does not work on very large numbers
             if (!isPrime(number))
             {
-                while (number!=0)
+                while (number != 0)
                 {
                     if (number % 2 == 0)
                     {
@@ -67,12 +60,10 @@ namespace Prime_Factorization
                     }
                     else
                     {
-                    Console.Write(number);
+                        Console.Write(number);
                         number = 0;
                     }
-
                 }
-                
             }
             else
             {
@@ -80,6 +71,5 @@ namespace Prime_Factorization
             }
             Console.Read();
         }
-
     }
 }

@@ -1,23 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Cost_Of_Tiles
 {
-    class Program
+    internal class Program
     {
         /// <summary>
-        /// Find Cost of Tile to Cover W x H Floor - 
-        /// Calculate the total cost of tile it would take 
+        /// Find Cost of Tile to Cover W x H Floor -
+        /// Calculate the total cost of tile it would take
         /// to cover a floor plan of width and height, using a
         /// cost entered by the user.
         /// </summary>
         /// <param name="args"></param>
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            double dimension,x,y,cost;
+            double dimension, x, y, cost;
 
             Console.WriteLine("Enter the dimensions of the room");
             dimension = Convert.ToDouble(Console.ReadLine());
@@ -31,7 +27,6 @@ namespace Cost_Of_Tiles
             Console.WriteLine("The total cost of tiles: {0}", totalCost);
 
             Console.Read();
-
         }
     }
 }

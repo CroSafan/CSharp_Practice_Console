@@ -1,21 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Fizz_Buzz
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             for (int i = 0; i < 100; i++)
             {
                 if (i % 3 == 0) Console.WriteLine("Fizz");
-                else if (i % 5 == 0 ) Console.WriteLine("Buzz");
+                else if (i % 5 == 0) Console.WriteLine("Buzz");
                 else if (i % 5 == 0 && i % 3 == 0) Console.WriteLine("Fizz Buzz");
-                else Console.WriteLine(" {0}",i);
+                else Console.WriteLine(" {0}", i);
             }
             Console.Read();
         }
