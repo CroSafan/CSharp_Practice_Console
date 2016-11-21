@@ -38,7 +38,7 @@ namespace Pig_Latin
                     if (inputString.ToLower()[i] != 'a' && inputString.ToLower()[i] != 'e' && inputString.ToLower()[i] != 'i' && inputString.ToLower()[i] != 'o' && inputString.ToLower()[i] != 'u')
                     {
                         memString += inputString[i];
-                       inputString= inputString.Remove(i, 1).Insert(i, "");
+                        inputString = inputString.Substring(i, inputString.Length);
                         
                     }
                     else break;
