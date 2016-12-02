@@ -1,0 +1,5 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Collatz_Conjecture\bin\Debug\Collatz_Conjecture.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Collatz_Conjecture\bin\Debug\Collatz_Conjecture.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Collatz_Conjecture\bin\Debug\Collatz_Conjecture.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Collatz_Conjecture\obj\Debug\Collatz_Conjecture.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Collatz_Conjecture\obj\Debug\Collatz_Conjecture.pdb

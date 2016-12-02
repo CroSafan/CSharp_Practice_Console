@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_Words", "Count_Words\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pig_Latin", "Pig_Latin\Pig_Latin.csproj", "{E18D3A3A-90F2-4B0F-8C88-37CB02911058}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collatz_Conjecture", "Collatz_Conjecture\Collatz_Conjecture.csproj", "{29BB1327-0824-4822-BED4-7B725AC9C8AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{E18D3A3A-90F2-4B0F-8C88-37CB02911058}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E18D3A3A-90F2-4B0F-8C88-37CB02911058}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E18D3A3A-90F2-4B0F-8C88-37CB02911058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BB1327-0824-4822-BED4-7B725AC9C8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BB1327-0824-4822-BED4-7B725AC9C8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BB1327-0824-4822-BED4-7B725AC9C8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BB1327-0824-4822-BED4-7B725AC9C8AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
