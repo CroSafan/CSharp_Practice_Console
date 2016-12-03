@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Sieve_of_Eratosthenes\bin\Debug\Sieve_of_Eratosthenes.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Sieve_of_Eratosthenes\bin\Debug\Sieve_of_Eratosthenes.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Sieve_of_Eratosthenes\bin\Debug\Sieve_of_Eratosthenes.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Sieve_of_Eratosthenes\obj\Debug\Sieve_of_Eratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Sieve_of_Eratosthenes\obj\Debug\Sieve_of_Eratosthenes.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Sieve_of_Eratosthenes\obj\Debug\Sieve_of_Eratosthenes.pdb
