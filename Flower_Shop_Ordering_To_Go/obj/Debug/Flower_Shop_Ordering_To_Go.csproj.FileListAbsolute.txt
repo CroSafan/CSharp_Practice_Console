@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Flower_Shop_Ordering_To_Go\bin\Debug\Flower_Shop_Ordering_To_Go.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Flower_Shop_Ordering_To_Go\bin\Debug\Flower_Shop_Ordering_To_Go.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Flower_Shop_Ordering_To_Go\bin\Debug\Flower_Shop_Ordering_To_Go.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Flower_Shop_Ordering_To_Go\obj\Debug\Flower_Shop_Ordering_To_Go.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Flower_Shop_Ordering_To_Go\obj\Debug\Flower_Shop_Ordering_To_Go.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Flower_Shop_Ordering_To_Go\obj\Debug\Flower_Shop_Ordering_To_Go.pdb
