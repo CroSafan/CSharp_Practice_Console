@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieve_of_Eratosthenes", "Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flower_Shop_Ordering_To_Go", "Flower_Shop_Ordering_To_Go\Flower_Shop_Ordering_To_Go.csproj", "{B8BB8845-F27E-4C1B-8E89-CAB316826D96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get_IP_Adress", "Get_IP_Adress\Get_IP_Adress.csproj", "{111DA917-D760-417E-90DF-273BE49622A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{B8BB8845-F27E-4C1B-8E89-CAB316826D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8BB8845-F27E-4C1B-8E89-CAB316826D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8BB8845-F27E-4C1B-8E89-CAB316826D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111DA917-D760-417E-90DF-273BE49622A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111DA917-D760-417E-90DF-273BE49622A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111DA917-D760-417E-90DF-273BE49622A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111DA917-D760-417E-90DF-273BE49622A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

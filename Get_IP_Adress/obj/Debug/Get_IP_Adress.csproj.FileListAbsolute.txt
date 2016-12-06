@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Get_IP_Adress\bin\Debug\Get_IP_Adress.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Get_IP_Adress\bin\Debug\Get_IP_Adress.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Get_IP_Adress\bin\Debug\Get_IP_Adress.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Get_IP_Adress\obj\Debug\Get_IP_Adress.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Get_IP_Adress\obj\Debug\Get_IP_Adress.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Get_IP_Adress\obj\Debug\Get_IP_Adress.pdb
