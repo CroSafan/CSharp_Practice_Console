@@ -1,0 +1,7 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Atomic_Time\bin\Debug\Atomic_Time.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Atomic_Time\bin\Debug\Atomic_Time.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Atomic_Time\bin\Debug\Atomic_Time.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Atomic_Time\obj\Debug\Atomic_Time.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Atomic_Time\obj\Debug\Atomic_Time.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Atomic_Time\bin\Debug\Atomic_Time.exe.CodeAnalysisLog.xml
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Atomic_Time\bin\Debug\Atomic_Time.exe.lastcodeanalysissucceeded
