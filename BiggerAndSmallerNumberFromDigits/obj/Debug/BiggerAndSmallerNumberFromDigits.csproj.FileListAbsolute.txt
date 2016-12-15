@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\BiggerAndSmallerNumberFromDigits\bin\Debug\BiggerAndSmallerNumberFromDigits.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\BiggerAndSmallerNumberFromDigits\bin\Debug\BiggerAndSmallerNumberFromDigits.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\BiggerAndSmallerNumberFromDigits\bin\Debug\BiggerAndSmallerNumberFromDigits.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\BiggerAndSmallerNumberFromDigits\obj\Debug\BiggerAndSmallerNumberFromDigits.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\BiggerAndSmallerNumberFromDigits\obj\Debug\BiggerAndSmallerNumberFromDigits.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\BiggerAndSmallerNumberFromDigits\obj\Debug\BiggerAndSmallerNumberFromDigits.pdb

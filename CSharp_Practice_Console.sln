@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get_IP_Adress", "Get_IP_Adr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atomic_Time", "Atomic_Time\Atomic_Time.csproj", "{487D59CA-B305-4112-8973-C458116D25E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiggerAndSmallerNumberFromDigits", "BiggerAndSmallerNumberFromDigits\BiggerAndSmallerNumberFromDigits.csproj", "{1300FC41-02FA-4DA7-AB40-7878ED7A0872}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{487D59CA-B305-4112-8973-C458116D25E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{487D59CA-B305-4112-8973-C458116D25E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{487D59CA-B305-4112-8973-C458116D25E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1300FC41-02FA-4DA7-AB40-7878ED7A0872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1300FC41-02FA-4DA7-AB40-7878ED7A0872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1300FC41-02FA-4DA7-AB40-7878ED7A0872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1300FC41-02FA-4DA7-AB40-7878ED7A0872}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

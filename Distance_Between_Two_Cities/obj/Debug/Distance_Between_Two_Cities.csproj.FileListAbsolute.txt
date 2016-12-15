@@ -3,4 +3,5 @@ C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Dis
 C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Distance_Between_Two_Cities\bin\Debug\Distance_Between_Two_Cities.pdb
 C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Distance_Between_Two_Cities\obj\Debug\Distance_Between_Two_Cities.exe
 C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Distance_Between_Two_Cities\obj\Debug\Distance_Between_Two_Cities.pdb
-C:\Users\Antun\documents\visual studio 2015\Projects\CSharp_Practice_Console\Distance_Between_Two_Cities\obj\Debug\Distance_Between_Two_Cities.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Distance_Between_Two_Cities\bin\Debug\Distance_Between_Two_Cities.exe.CodeAnalysisLog.xml
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Distance_Between_Two_Cities\bin\Debug\Distance_Between_Two_Cities.exe.lastcodeanalysissucceeded
