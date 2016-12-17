@@ -11,15 +11,38 @@ namespace Challenge295_Letter_by_letter
         static void Main(string[] args)
         {
 
-            string word1 = Console.ReadLine();
-            string word2 = Console.ReadLine();
-            char[] nekaj = word1.ToCharArray();
-            char[] nekaj2 = word2.ToCharArray();
-            for (int i = 0; i < word1.Length; i++)
+            string[] input1 = new string[] { "floor", "brake" };
+            string[] input2 = new string[] { "wood", "book" };
+            string[] input3 = new string[] { "a fall to the floor", "braking the door in" };
+            LetterByLetter(input1);
+            LetterByLetter(input2);
+            LetterByLetter(input3);
+            Console.Read();
+        }
+
+
+        public static void LetterByLetter(string[] input)
+        {
+            char[] charrArray1 = input[0].ToCharArray();
+            char[] charrArray2 = input[1].ToCharArray();
+            Console.WriteLine(charrArray1);
+            for (int i = 0; i < charrArray1.Length; i++)
             {
-                nekaj[i] = nekaj2[i];
-                Console.WriteLine(nekaj[i]);
+                if (charrArray1[i] != charrArray2[i])
+                {
+                    charrArray1[i] = charrArray2[i];
+                    Console.WriteLine(charrArray1);
+                }
+
+
+
             }
         }
+
     }
+
+
+
+
+
 }

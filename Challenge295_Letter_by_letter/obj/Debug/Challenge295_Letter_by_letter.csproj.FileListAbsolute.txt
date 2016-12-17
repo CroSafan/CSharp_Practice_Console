@@ -1,0 +1,5 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge295_Letter_by_letter\bin\Debug\Challenge295_Letter_by_letter.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge295_Letter_by_letter\bin\Debug\Challenge295_Letter_by_letter.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge295_Letter_by_letter\bin\Debug\Challenge295_Letter_by_letter.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge295_Letter_by_letter\obj\Debug\Challenge295_Letter_by_letter.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge295_Letter_by_letter\obj\Debug\Challenge295_Letter_by_letter.pdb
