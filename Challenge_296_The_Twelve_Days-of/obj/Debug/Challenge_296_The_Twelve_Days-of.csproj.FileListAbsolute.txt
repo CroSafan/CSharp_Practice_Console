@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_296_The_Twelve_Days-of\bin\Debug\Challenge_296_The_Twelve_Days-of.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_296_The_Twelve_Days-of\bin\Debug\Challenge_296_The_Twelve_Days-of.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_296_The_Twelve_Days-of\bin\Debug\Challenge_296_The_Twelve_Days-of.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_296_The_Twelve_Days-of\obj\Debug\Challenge_296_The_Twelve_Days-of.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_296_The_Twelve_Days-of\obj\Debug\Challenge_296_The_Twelve_Days-of.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_296_The_Twelve_Days-of\obj\Debug\Challenge_296_The_Twelve_Days-of.pdb
