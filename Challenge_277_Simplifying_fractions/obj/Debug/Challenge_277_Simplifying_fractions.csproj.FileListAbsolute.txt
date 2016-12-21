@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_277_Simplifying_fractions\bin\Debug\Challenge_277_Simplifying_fractions.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_277_Simplifying_fractions\bin\Debug\Challenge_277_Simplifying_fractions.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_277_Simplifying_fractions\bin\Debug\Challenge_277_Simplifying_fractions.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_277_Simplifying_fractions\obj\Debug\Challenge_277_Simplifying_fractions.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_277_Simplifying_fractions\obj\Debug\Challenge_277_Simplifying_fractions.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_277_Simplifying_fractions\obj\Debug\Challenge_277_Simplifying_fractions.pdb
