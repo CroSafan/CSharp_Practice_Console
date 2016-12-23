@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_294_Rack_management_1\bin\Debug\Challenge_294_Rack_management_1.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_294_Rack_management_1\bin\Debug\Challenge_294_Rack_management_1.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_294_Rack_management_1\bin\Debug\Challenge_294_Rack_management_1.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_294_Rack_management_1\obj\Debug\Challenge_294_Rack_management_1.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_294_Rack_management_1\obj\Debug\Challenge_294_Rack_management_1.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_294_Rack_management_1\obj\Debug\Challenge_294_Rack_management_1.pdb
