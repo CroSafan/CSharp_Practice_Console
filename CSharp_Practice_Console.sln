@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge296Intersecting_Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_294_Rack_management_1", "Challenge_294_Rack_management_1\Challenge_294_Rack_management_1.csproj", "{18688DFA-A850-474A-839A-C79F84D6DB40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_293_Defusing_the_bomb", "Challenge_293_Defusing_the_bomb\Challenge_293_Defusing_the_bomb.csproj", "{EDF6823E-07B1-4056-AB45-8DB033AF5A84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{18688DFA-A850-474A-839A-C79F84D6DB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18688DFA-A850-474A-839A-C79F84D6DB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18688DFA-A850-474A-839A-C79F84D6DB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF6823E-07B1-4056-AB45-8DB033AF5A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF6823E-07B1-4056-AB45-8DB033AF5A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF6823E-07B1-4056-AB45-8DB033AF5A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF6823E-07B1-4056-AB45-8DB033AF5A84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
