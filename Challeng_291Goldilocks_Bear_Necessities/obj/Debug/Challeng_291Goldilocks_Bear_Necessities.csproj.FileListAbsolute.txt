@@ -1,0 +1,5 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challeng_291Goldilocks_Bear_Necessities\bin\Debug\Challeng_291Goldilocks_Bear_Necessities.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challeng_291Goldilocks_Bear_Necessities\bin\Debug\Challeng_291Goldilocks_Bear_Necessities.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challeng_291Goldilocks_Bear_Necessities\bin\Debug\Challeng_291Goldilocks_Bear_Necessities.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challeng_291Goldilocks_Bear_Necessities\obj\Debug\Challeng_291Goldilocks_Bear_Necessities.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challeng_291Goldilocks_Bear_Necessities\obj\Debug\Challeng_291Goldilocks_Bear_Necessities.pdb

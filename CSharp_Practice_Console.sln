@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_294_Rack_manageme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_293_Defusing_the_bomb", "Challenge_293_Defusing_the_bomb\Challenge_293_Defusing_the_bomb.csproj", "{EDF6823E-07B1-4056-AB45-8DB033AF5A84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challeng_291Goldilocks_Bear_Necessities", "Challeng_291Goldilocks_Bear_Necessities\Challeng_291Goldilocks_Bear_Necessities.csproj", "{954DA12A-127D-4898-A0ED-925DC619C1C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{EDF6823E-07B1-4056-AB45-8DB033AF5A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDF6823E-07B1-4056-AB45-8DB033AF5A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDF6823E-07B1-4056-AB45-8DB033AF5A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954DA12A-127D-4898-A0ED-925DC619C1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954DA12A-127D-4898-A0ED-925DC619C1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954DA12A-127D-4898-A0ED-925DC619C1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954DA12A-127D-4898-A0ED-925DC619C1C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
