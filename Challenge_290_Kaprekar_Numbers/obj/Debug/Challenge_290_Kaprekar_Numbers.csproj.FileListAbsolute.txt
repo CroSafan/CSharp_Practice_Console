@@ -1,0 +1,5 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_290_Kaprekar_Numbers\bin\Debug\Challenge_290_Kaprekar_Numbers.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_290_Kaprekar_Numbers\bin\Debug\Challenge_290_Kaprekar_Numbers.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_290_Kaprekar_Numbers\bin\Debug\Challenge_290_Kaprekar_Numbers.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_290_Kaprekar_Numbers\obj\Debug\Challenge_290_Kaprekar_Numbers.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_290_Kaprekar_Numbers\obj\Debug\Challenge_290_Kaprekar_Numbers.pdb

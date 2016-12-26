@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_293_Defusing_the_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challeng_291Goldilocks_Bear_Necessities", "Challeng_291Goldilocks_Bear_Necessities\Challeng_291Goldilocks_Bear_Necessities.csproj", "{954DA12A-127D-4898-A0ED-925DC619C1C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_290_Kaprekar_Numbers", "Challenge_290_Kaprekar_Numbers\Challenge_290_Kaprekar_Numbers.csproj", "{B0E17547-AFC8-4AC6-A6B5-4A02B2DEE606}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{954DA12A-127D-4898-A0ED-925DC619C1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{954DA12A-127D-4898-A0ED-925DC619C1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{954DA12A-127D-4898-A0ED-925DC619C1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E17547-AFC8-4AC6-A6B5-4A02B2DEE606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E17547-AFC8-4AC6-A6B5-4A02B2DEE606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E17547-AFC8-4AC6-A6B5-4A02B2DEE606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E17547-AFC8-4AC6-A6B5-4A02B2DEE606}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
