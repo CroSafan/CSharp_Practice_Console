@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_288_Detecting_Alliteration\bin\Debug\Challenge_288_Detecting_Alliteration.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_288_Detecting_Alliteration\bin\Debug\Challenge_288_Detecting_Alliteration.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_288_Detecting_Alliteration\bin\Debug\Challenge_288_Detecting_Alliteration.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_288_Detecting_Alliteration\obj\Debug\Challenge_288_Detecting_Alliteration.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_288_Detecting_Alliteration\obj\Debug\Challenge_288_Detecting_Alliteration.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_288_Detecting_Alliteration\obj\Debug\Challenge_288_Detecting_Alliteration.pdb
