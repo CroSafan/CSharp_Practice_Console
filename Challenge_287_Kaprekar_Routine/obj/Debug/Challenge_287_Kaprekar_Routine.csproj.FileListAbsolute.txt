@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_287_Kaprekar_Routine\bin\Debug\Challenge_287_Kaprekar_Routine.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_287_Kaprekar_Routine\bin\Debug\Challenge_287_Kaprekar_Routine.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_287_Kaprekar_Routine\bin\Debug\Challenge_287_Kaprekar_Routine.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_287_Kaprekar_Routine\obj\Debug\Challenge_287_Kaprekar_Routine.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_287_Kaprekar_Routine\obj\Debug\Challenge_287_Kaprekar_Routine.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_287_Kaprekar_Routine\obj\Debug\Challenge_287_Kaprekar_Routine.pdb
