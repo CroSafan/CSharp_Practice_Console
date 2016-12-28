@@ -19,20 +19,33 @@ namespace Challenge_287_Kaprekar_Routine
             return max;
         }
 
+        public static int Desc_Digits(int input)
+        {
+            List<int> digits = new List<int>();
+            if (input < 999) digits.Add(0);
+            while (input !=0)
+            {
+                digits.Add( input % 10);
+                input /= 10;
+            }
+           digits= digits.OrderByDescending(number=>number).ToList();
+            return Convert.ToInt32(String.Concat(digits.ToArray()));
+        }
+
         static void Main(string[] args)
         {
-            /*int broj = 0232;
-            int nekaj = Convert.ToInt32(broj.ToString("D4"));
-            while (nekaj != 0)
-            {
-                Console.WriteLine(nekaj % 10);
-                nekaj /= 10;
-            }*/
+          
             Console.WriteLine(Largest_Digit(1234));
             Console.WriteLine(Largest_Digit(3253));
             Console.WriteLine(Largest_Digit(9800));
             Console.WriteLine(Largest_Digit(3333));
             Console.WriteLine(Largest_Digit(120));
+            Console.WriteLine("------------------");
+            Console.WriteLine(Desc_Digits(1234));
+            Console.WriteLine(Desc_Digits(3253));
+            Console.WriteLine(Desc_Digits(9800));
+            Console.WriteLine(Desc_Digits(3333));
+            Console.WriteLine(Desc_Digits(120));
             Console.Read();
         }
     }
