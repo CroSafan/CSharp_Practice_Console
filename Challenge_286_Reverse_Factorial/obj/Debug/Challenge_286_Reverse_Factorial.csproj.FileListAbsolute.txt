@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_286_Reverse_Factorial\bin\Debug\Challenge_286_Reverse_Factorial.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_286_Reverse_Factorial\bin\Debug\Challenge_286_Reverse_Factorial.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_286_Reverse_Factorial\bin\Debug\Challenge_286_Reverse_Factorial.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_286_Reverse_Factorial\obj\Debug\Challenge_286_Reverse_Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_286_Reverse_Factorial\obj\Debug\Challenge_286_Reverse_Factorial.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_286_Reverse_Factorial\obj\Debug\Challenge_286_Reverse_Factorial.pdb

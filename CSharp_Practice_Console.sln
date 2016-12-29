@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_288_Detecting_All
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_287_Kaprekar_Routine", "Challenge_287_Kaprekar_Routine\Challenge_287_Kaprekar_Routine.csproj", "{C915668F-1C5C-4349-BF69-0717785DF65D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_286_Reverse_Factorial", "Challenge_286_Reverse_Factorial\Challenge_286_Reverse_Factorial.csproj", "{AFCC1FA6-1617-47B9-9E93-B9A9BE904619}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{C915668F-1C5C-4349-BF69-0717785DF65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C915668F-1C5C-4349-BF69-0717785DF65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C915668F-1C5C-4349-BF69-0717785DF65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCC1FA6-1617-47B9-9E93-B9A9BE904619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCC1FA6-1617-47B9-9E93-B9A9BE904619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCC1FA6-1617-47B9-9E93-B9A9BE904619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCC1FA6-1617-47B9-9E93-B9A9BE904619}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
