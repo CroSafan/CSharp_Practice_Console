@@ -1,0 +1,5 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_283_Anagram_Detector\bin\Debug\Challenge_283_Anagram_Detector.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_283_Anagram_Detector\bin\Debug\Challenge_283_Anagram_Detector.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_283_Anagram_Detector\bin\Debug\Challenge_283_Anagram_Detector.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_283_Anagram_Detector\obj\Debug\Challenge_283_Anagram_Detector.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_283_Anagram_Detector\obj\Debug\Challenge_283_Anagram_Detector.pdb
