@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge275_Splurthian_Chemistry_101\bin\Debug\Challenge275_Splurthian_Chemistry_101.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge275_Splurthian_Chemistry_101\bin\Debug\Challenge275_Splurthian_Chemistry_101.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge275_Splurthian_Chemistry_101\bin\Debug\Challenge275_Splurthian_Chemistry_101.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge275_Splurthian_Chemistry_101\obj\Debug\Challenge275_Splurthian_Chemistry_101.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge275_Splurthian_Chemistry_101\obj\Debug\Challenge275_Splurthian_Chemistry_101.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge275_Splurthian_Chemistry_101\obj\Debug\Challenge275_Splurthian_Chemistry_101.pdb
