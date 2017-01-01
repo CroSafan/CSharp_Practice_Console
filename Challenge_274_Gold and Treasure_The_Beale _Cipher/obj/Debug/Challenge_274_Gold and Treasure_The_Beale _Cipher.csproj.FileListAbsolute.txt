@@ -1,0 +1,6 @@
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_274_Gold and Treasure_The_Beale _Cipher\bin\Debug\Challenge_274_Gold and Treasure_The_Beale _Cipher.exe.config
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_274_Gold and Treasure_The_Beale _Cipher\bin\Debug\Challenge_274_Gold and Treasure_The_Beale _Cipher.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_274_Gold and Treasure_The_Beale _Cipher\bin\Debug\Challenge_274_Gold and Treasure_The_Beale _Cipher.pdb
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_274_Gold and Treasure_The_Beale _Cipher\obj\Debug\Challenge_274_Gold and Treasure_The_Beale _Cipher.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_274_Gold and Treasure_The_Beale _Cipher\obj\Debug\Challenge_274_Gold and Treasure_The_Beale _Cipher.exe
+C:\Users\Antun\Documents\Visual Studio 2015\Projects\CSharp_Practice_Console\Challenge_274_Gold and Treasure_The_Beale _Cipher\obj\Debug\Challenge_274_Gold and Treasure_The_Beale _Cipher.pdb
