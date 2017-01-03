@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_274_Gold and Trea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge273_Getting_a_degree", "Challenge273_Getting_a_degree\Challenge273_Getting_a_degree.csproj", "{80A11DCB-B152-459B-93CD-E2A5A24B41DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_265_Permutations_and_combinations_part1", "Challenge_265_Permutations_and_combinations_part1\Challenge_265_Permutations_and_combinations_part1.csproj", "{63CFF0A2-6DFA-4DD6-B62A-3530370326D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{80A11DCB-B152-459B-93CD-E2A5A24B41DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80A11DCB-B152-459B-93CD-E2A5A24B41DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80A11DCB-B152-459B-93CD-E2A5A24B41DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CFF0A2-6DFA-4DD6-B62A-3530370326D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CFF0A2-6DFA-4DD6-B62A-3530370326D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CFF0A2-6DFA-4DD6-B62A-3530370326D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CFF0A2-6DFA-4DD6-B62A-3530370326D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
